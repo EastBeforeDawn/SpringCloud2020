@@ -13,6 +13,9 @@
         <module>Eureka8001</module>
         <module>Provider8080</module>
         <module>common-api</module>
+        <module>Provider8081</module>
+        <module>Consumer80</module>
+        <module>Consumer80-Feign</module>
     </modules>
 
     <!-- 统一管理jar包版本 -->
